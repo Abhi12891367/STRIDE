@@ -132,5 +132,6 @@ email content is not persisted.
 MIT, see [LICENSE](LICENSE).
 
 
-[Watch the Demo Video on YouTube](https://youtube.com)
+[Watch the Demo Video on YouTube](https://youtu.be/slFvHHEgWJE?si=8keuP8FCsTKFpi7J)
+
 
